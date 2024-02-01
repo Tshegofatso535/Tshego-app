@@ -28,6 +28,7 @@ font-family: 'PT Serif', serif;
 }
 
 .search-form-button{
+    margin-bottom: 4px;
     background: palevioletred;
     padding: 15px 20px;
     border: none;
@@ -35,7 +36,7 @@ font-family: 'PT Serif', serif;
     margin-left: 5px;
     border-radius: 6px;
     color:white
-
+    
 }
 
 header{
